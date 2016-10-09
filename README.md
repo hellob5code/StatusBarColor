@@ -1,0 +1,3 @@
+# StatusBarColor
+
+一个关于状态栏着色以及NavigationView与DrawerLayout以及Toolbar的配套使用的小例子。
